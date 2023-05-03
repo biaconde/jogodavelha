@@ -1,6 +1,5 @@
 package jogodavelha;
 
-import java.io.Console;
 import java.util.Scanner;
 
 public class JogoDaVelhaConsoleApp {
